@@ -1,0 +1,10 @@
+https://www.speedrun.com/api/v1/runs?category=7kjpq4k3
+https://www.speedrun.com/api/v1/runs?category=wdm4n4od
+https://www.speedrun.com/api/v1/runs?category=n2y7xw12
+https://www.speedrun.com/api/v1/runs?category=jdz0zg2v
+https://www.speedrun.com/api/v1/runs?category=mke5qv8k
+https://www.speedrun.com/api/v1/runs?category=5dwp79ek
+https://www.speedrun.com/api/v1/runs?category=n2y53mko
+https://www.speedrun.com/api/v1/runs?category=n2yr4o7d
+https://www.speedrun.com/api/v1/runs?category=xk9gn6d0
+https://www.speedrun.com/api/v1/runs?category=9d8vjp7k
